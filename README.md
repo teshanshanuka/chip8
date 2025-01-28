@@ -30,6 +30,6 @@ mv pkg/wasm_bg.wasm pkg/wasm.js ../web/
 **Run http server for the web frontend**
 
 ```sh
-cd wasm/web/
+cd web/
 python3 -m http.server
 ```
